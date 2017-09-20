@@ -28,4 +28,3 @@ var iLoveTheBeatles = function(number){
   }
   return emptyArray;
 }
-
