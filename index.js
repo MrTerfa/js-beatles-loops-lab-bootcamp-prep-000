@@ -14,7 +14,7 @@ var johnLennonFacts = function(facts){
     newArray.push(facts[i] + "!!!");
     i++
   }
-  return facts
+  return newArray;
 }
 
 /*
